@@ -1,14 +1,31 @@
-<h3>Philippe Jaubert<br>Network Programmer</h3>
+<h2>Philippe Jaubert<br>Network Programmer</h2>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-philjbt-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philjbt/)
 
-<h4>Repositories</h4>
+<h3>Repositories</h3>
 
 - [Synak](https://github.com/PhilJbt/Synak), a network library for video games written in C++
 - [Mescamit](https://github.com/PhilJbt/mescamit), a variable obfuscator for memory scanner mitigation written in C++
 
+<h3>Skills</h3>
+
+<details><summary>Languages</summary>
+  - C, C++, C#<br/>
+  - Python, Php, Html, Css, JS
+</details>
+
+<details><summary>Frameworks</summary>
+  - Sockets, Websockets<br/>
+  - Mysql, Sqlite
+</details>
+
+<details><summary>Tools</summary>
+  - WireShark, Clusmy<br/>
+  - Git, Svn
+</details>
+
 ---
 
-### A little more about me
+<h4>A little more about me</h4>
 
 I am also a *Drum & Bass* and *Trap* beat maker [![soundcloud: divideup](https://soundcloud.com/favicon.ico)](https://soundcloud.com/divideup/)
