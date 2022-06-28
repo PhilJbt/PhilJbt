@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3>Philippe Jaubert<br>Network Programmer</h3>
 
-<!--
-**PhilJbt/PhilJbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-philjbt-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philjbt/)
 
-Here are some ideas to get you started:
+<h4>Repositories</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Synak](https://github.com/PhilJbt/Synak), a network library for video games written in C++
+- [Mescamit](https://github.com/PhilJbt/mescamit), a variable obfuscator for memory scanner mitigation written in C++
+
+---
+
+### A little more about me
+
+I am also a *Drum & Bass* and *Trap* beat maker [![soundcloud: divideup](https://soundcloud.com/favicon.ico)](https://soundcloud.com/divideup/)
