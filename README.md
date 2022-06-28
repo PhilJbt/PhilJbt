@@ -7,20 +7,6 @@
 - [Synak](https://github.com/PhilJbt/Synak), a network library for video games written in C++
 - [Mescamit](https://github.com/PhilJbt/mescamit), a variable obfuscator for memory scanner mitigation written in C++
 
-<h3>Skills</h3>
-
-  * Languages
-    * C, C++, C#
-    * Python, Php, Html, Css, JS
-
-  * Frameworks
-    * Sockets, Websockets
-    * Mysql, Sqlite
-
-  * Tools
-    * WireShark, Clusmy
-    * Git, Svn
-
 ---
 
 <h4>A little more about me</h4>
