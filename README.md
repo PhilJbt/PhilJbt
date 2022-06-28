@@ -9,20 +9,17 @@
 
 <h3>Skills</h3>
 
-<details><summary>Languages</summary>
-  - C, C++, C#<br/>
-  - Python, Php, Html, Css, JS
-</details>
+  * Languages
+    * C, C++, C#
+    * Python, Php, Html, Css, JS
 
-<details><summary>Frameworks</summary>
-  - Sockets, Websockets<br/>
-  - Mysql, Sqlite
-</details>
+  * Frameworks
+    * Sockets, Websockets
+    * Mysql, Sqlite
 
-<details><summary>Tools</summary>
-  - WireShark, Clusmy<br/>
-  - Git, Svn
-</details>
+  * Tools
+    * WireShark, Clusmy
+    * Git, Svn
 
 ---
 
