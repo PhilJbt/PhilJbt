@@ -12,4 +12,4 @@
 
 <h4>A little more about me</h4>
 
-I am also a *Drum & Bass* and *Trap* beat maker [![soundcloud: divideup](https://soundcloud.com/favicon.ico)](https://soundcloud.com/divideup/)
+I am also a *Drum & Bass* and *Trap* beat maker [![youtube: divideup](https://www.youtube.com/favicon.ico)](https://www.youtube.com/Divideup/) [![soundcloud: divideup](https://soundcloud.com/favicon.ico)](https://soundcloud.com/divideup/)
