@@ -16,6 +16,5 @@ I am also a *Trap* and *Drum & Bass* beat maker!
 
 [![youtube: divideup](https://i1.sndcdn.com/artworks-w0ccrrp2zRDqEWzb-jK5law-large.jpg)](https://www.youtube.com/watch?v=QkYpywZsACw) 
 [![youtube: divideup](https://i1.sndcdn.com/artworks-cWSYtu2hu23rPJpQ-RTwr6w-large.jpg)](https://www.youtube.com/watch?v=id0ZLY20keA) 
-[![youtube: divideup](https://i1.sndcdn.com/artworks-OaRJVPBDRLRwtHKX-n55Lhw-large.jpg)](https://www.youtube.com/watch?v=UUFXJRvX8jU) 
 [![youtube: divideup](https://i1.sndcdn.com/artworks-ZwgSa84Vg5UdsWLr-MKMHFQ-large.jpg)](https://www.youtube.com/watch?v=yKxuM40qDeI) 
 [![youtube: divideup](https://i1.sndcdn.com/artworks-eFlc3c9gEj5UzhH3-9QybFA-large.jpg)](https://www.youtube.com/watch?v=2PgVQ9vjmVc)
