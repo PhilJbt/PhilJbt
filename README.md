@@ -6,7 +6,7 @@
 
 - [Synak](https://github.com/PhilJbt/Synak), a network library for video games written in C++
 - [Mescamit](https://github.com/PhilJbt/mescamit), a variable obfuscator for memory scanner mitigation written in C++
-- [Custos](https://philjbt.github.io/custos/), a password generator/manager
+- [Sierra](https://github.com/PhilJbt/Sierra), an endianness aware serializer
 
 ---
 
