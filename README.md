@@ -4,9 +4,9 @@
 
 <h3>Repositories</h3>
 
-- [Synak](https://github.com/PhilJbt/Synak), a network library for video games written in C++
-- [Sierra](https://github.com/PhilJbt/Sierra), an endianness aware serializer
-- [Mescamit](https://github.com/PhilJbt/mescamit), a variable obfuscator for memory scanner mitigation written in C++
+- [Synak](https://github.com/PhilJbt/Synak) • a network library for video games written in C++
+- [Sierra](https://github.com/PhilJbt/Sierra) • an endianness aware serializer written in C++
+- [Mescamit](https://github.com/PhilJbt/mescamit) • a variable obfuscator (to mitigate memory scans) written in C++
 
 ---
 
