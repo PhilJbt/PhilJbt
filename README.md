@@ -14,8 +14,4 @@
 
 I am also a *Trap* and *Drum & Bass* beat maker!
 
-[![youtube: divideup](https://i1.sndcdn.com/artworks-w0ccrrp2zRDqEWzb-jK5law-large.jpg)](https://www.youtube.com/watch?v=QkYpywZsACw) 
-[![youtube: divideup](https://i1.sndcdn.com/artworks-An6FOEYhJNHTNvSK-yD5L3g-large.jpg)](https://www.youtube.com/watch?v=4ZbM5BHgg50) 
-[![youtube: divideup](https://i1.sndcdn.com/artworks-cWSYtu2hu23rPJpQ-RTwr6w-large.jpg)](https://www.youtube.com/watch?v=id0ZLY20keA) 
-[![youtube: divideup](https://i1.sndcdn.com/artworks-MTX4x6a1WW1xrU9Q-oyTGPg-large.jpg)](https://www.youtube.com/watch?v=jWAcKzvyDsk) 
-[![youtube: divideup](https://i1.sndcdn.com/artworks-eFlc3c9gEj5UzhH3-9QybFA-large.jpg)](https://www.youtube.com/watch?v=2PgVQ9vjmVc)
+[![youtube: divideup](https://github.com/PhilJbt/PhilJbt/assets/22506952/80a6cdca-8eac-42f2-a2b9-b6e82891cb26)](https://www.youtube.com/watch?v=QkYpywZsACw)[![youtube: divideup](https://github.com/PhilJbt/PhilJbt/assets/22506952/2c743b48-eae4-463c-b690-99c870b2f067)](https://www.youtube.com/watch?v=OXGhzCTKOUU)[![youtube: divideup](https://github.com/PhilJbt/PhilJbt/assets/22506952/51000143-fb44-46f7-b03f-fc663814e345)](https://www.youtube.com/watch?v=id0ZLY20keA)
