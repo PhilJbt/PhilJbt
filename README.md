@@ -14,4 +14,6 @@
 
 I am also a *Trap* and *Drum & Bass* beat maker!
 
-[![youtube: Divideup - 06](https://github-production-user-asset-6210df.s3.amazonaws.com/22506952/252167576-80a6cdca-8eac-42f2-a2b9-b6e82891cb26.png)](https://www.youtube.com/watch?v=QkYpywZsACw)[![youtube: Divideup - 29](https://github-production-user-asset-6210df.s3.amazonaws.com/22506952/252167547-2c743b48-eae4-463c-b690-99c870b2f067.png)](https://www.youtube.com/watch?v=id0ZLY20keA)[![youtube: Divideup - 44](https://github-production-user-asset-6210df.s3.amazonaws.com/22506952/252167571-51000143-fb44-46f7-b03f-fc663814e345.png)](https://www.youtube.com/watch?v=OXGhzCTKOUU)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22506952/252899002-ecfac5df-c15d-4a92-a225-c477e627f6c4.png" width="100" height="100">](https://www.youtube.com/watch?v=QkYpywZsACw)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22506952/252898941-421b04d0-cb27-4315-ab69-f2161bdda2ee.png" width="100" height="100">](https://www.youtube.com/watch?v=id0ZLY20keA)
+[<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/22506952/252898861-9af1dd83-e540-435f-99d4-4201d382e08f.png" width="100" height="100">](https://www.youtube.com/watch?v=OXGhzCTKOUU)
